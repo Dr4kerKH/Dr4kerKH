@@ -15,7 +15,7 @@
 ---
 <div style="text-align: justify"> 
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Jalpaiguri Government Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Angelo State University, TX 🏛. I'm a passionate learner technologies mostly related to AI/Data-driven 💡. I would to explore new technologies and leverage data-driven insight to solve real-life problems in various industies ✨. Apart from that I also love to code and analyze data 💻. I'm currently into on Data Scientist/Analyst where perfecting my skills both from technical standpoint to data storytelling/communication 🤓.
 
 </div>
 
