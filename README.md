@@ -15,7 +15,7 @@
 ---
 <div style="text-align: justify"> 
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Angelo State University, TX 🏛. I'm a passionate learner technologies mostly related to AI/Data-driven 💡. I would to explore new technologies and leverage data-driven insight to solve real-life problems in various industies ✨. Apart from that I also love to code and analyze data 💻. I'm currently into on Data Scientist/Analyst where perfecting my skills both from technical standpoint to data storytelling/communication 🤓.
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Angelo State University, TX 🏛. I also hold B.A. in English for Professional Communication. I love learning about technologies mostly related to AI/Data-driven💡. I would to explore new technologies and leverage data-driven insight to solve real-life problems in various industies ✨. Apart from that I also love to code and analyze data 💻. I'm currently into on Data Scientist/Analyst where perfecting my skills both from technical standpoint to data storytelling/communication 🤓.
 
 </div>
 
