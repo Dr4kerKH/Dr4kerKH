@@ -45,10 +45,12 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Ange
 <br>
 
 ---
+<!--
 <p>
 
- [![Sonpaorong's github stats](https://github-readme-stats.vercel.app/api?username=Dr4kerKH&show_icons=true&theme=tokyonight)]: #
+  ![Sonpaorong's github stats](https://github-readme-stats.vercel.app/api?username=Dr4kerKH&show_icons=true&theme=tokyonight) 
 
 </p>
 
 ---
+-->
