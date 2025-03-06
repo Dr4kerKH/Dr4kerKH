@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
  &nbsp;
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/Dr4kerKH)
+[![Send Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/Dr4kerKH)
  &nbsp;
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Dr4kerKH&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  &nbsp;
@@ -22,17 +22,13 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Ange
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working on SWE mobile app and Data Pipeline/Analysis for Cybersecurity.
-
 - 🌱 I’m currently learning FastAPI, Flutter, and Docker.
-
 - 💬 Ask me anything 👻
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sonpaorong-muchhim-8b712b2a5/)
-
 - 🥅 2025 Goals: progress my data scientist path, getting job in data related
-
 - ⚡ Fun fact: I'm not fun 😒.
-
+- 😅 Status: sleep deprived, dehydrated, highly caffeinated 🍵.
+  
 ### Connect with me:
 <div>
 
