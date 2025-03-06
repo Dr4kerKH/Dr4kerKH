@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
  &nbsp;
-[![Send Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/Dr4kerKH)
+[![Send Love](https://img.shields.io/badge/Send-%F0%9F%A4%8D-Green)](https://github.com/Dr4kerKH)
  &nbsp;
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Dr4kerKH&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  &nbsp;
