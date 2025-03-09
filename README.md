@@ -1,13 +1,15 @@
-### Hi I am "Sonpaorong M.". 👋
+
+
+### Hi I am "Sonpaorong M.". 👋  [<img align="right" height="120px" alt="GIF" src= "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>](https://www.linkedin.com/in/sonpaorong-muchhim-8b712b2a5/)
 
 #### Glad to see you here! 🤩
 <p>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-0077B5.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
  &nbsp;
-[![Send Love](https://img.shields.io/badge/Send-%F0%9F%A4%8D-Green)](https://github.com/Dr4kerKH)
+[![Send Love](https://img.shields.io/badge/Send+Love-%F0%9F%A4%8D-0077B5)](https://github.com/Dr4kerKH)
  &nbsp;
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Dr4kerKH&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Dr4kerKH&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=0077B5"/>
  &nbsp;
 </p>
 
@@ -16,9 +18,10 @@
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Angelo State University, TX 🏛. I also hold B.A. in English for Professional Communication. I love learning about technologies mostly related to AI/Data-driven💡. I would to explore new technologies and leverage data-driven insight to solve real-life problems in various industries ✨. Apart from that I also love coding 💻, analyzing data 📊, and photography 📷/ writing 📝. I'm currently into Data Scientist/Analyst where perfecting my skills both from technicals standpoint to data-storytelling/communication 🤓.
 
 </div>
----
+
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
----
+
+
 - 🔭 I’m currently working on SWE mobile app and Data Pipeline/Analysis for Cybersecurity.
 - 🌱 I’m currently learning FastAPI, Flutter, and Docker.
 - 💬 Ask me anything 👻
