@@ -1,7 +1,7 @@
 ### Hi I am "Sonpaorong M.". 👋
 
 #### Glad to see you here! 🤩
-<img align="right" height="270px" alt="GIF" src= "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
 <p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
@@ -12,15 +12,18 @@
  &nbsp;
 </p>
 
----
+
 <div style="text-align: justify"> 
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Angelo State University, TX 🏛. I also hold B.A. in English for Professional Communication. I love learning about technologies mostly related to AI/Data-driven💡. I would to explore new technologies and leverage data-driven insight to solve real-life problems in various industries ✨. Apart from that I also love coding 💻, analyzing data 📊, and photography 📷/ writing 📝. I'm currently into Data Scientist/Analyst where perfecting my skills both from technicals standpoint to data-storytelling/communication 🤓.
 
 </div>
-
+<!--
+---
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+---
+-->
+<img align="right" height="270px" alt="GIF" src= "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 - 🔭 I’m currently working on SWE mobile app and Data Pipeline/Analysis for Cybersecurity.
 - 🌱 I’m currently learning FastAPI, Flutter, and Docker.
 - 💬 Ask me anything 👻
