@@ -5,11 +5,11 @@
 #### Glad to see you here! 🤩
 <p>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-f5d505.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
+[![PRs Welcome](https://img.shields.io/badge/PRs-%f0%9f%92%80-f5d505.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
  &nbsp;
-[![Send Love](https://img.shields.io/badge/Send-%F0%9F%A4%8D-f5d505)](https://github.com/Dr4kerKH)
+[![Send Love](https://img.shields.io/badge/Send-%F0%9F%A4%8D-f5d505.svg?style=flat&logo=buymeacoffee&logoColor=white)](https://github.com/Dr4kerKH)
  &nbsp;
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Dr4kerKH&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=f5d505"/>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Dr4kerKH&style=flat&labelColor=black&logo=aseprite&label=Visitors&color=f5d505"/>
  &nbsp;
 </p>
 
