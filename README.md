@@ -23,7 +23,7 @@ I'm a senior year student pursuing Bachelors's in Computer Science 🎓 from Ang
 
 
 - 🔭 I’m currently working on SWE mobile app and Data Pipeline/Analysis for Cybersecurity Team.
-- 🌱 I’m currently learning FastAPI, Flutter, and Docker.
+- 🌱 I’m currently learning AWS, FastAPI, Flutter, Deployment and Docker.
 - 💬 Ask me anything 👻
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sonpaorong-muchhim-8b712b2a5/)
 - 🥅 2025 Goals: progress my data scientist path, getting job in data related
