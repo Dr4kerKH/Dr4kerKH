@@ -15,7 +15,9 @@
 
 <div style="text-align: justify"> 
 
-I'm a senior year student pursuing Bachelors's in Computer Science 🎓 from Angelo State University, TX 🏛. I also hold B.A. in English for Professional Communication. I love learning about technologies mostly related to AI/Data-driven💡. I would to explore new technologies and leverage data-driven insight to solve real-life problems in various industries ✨. Apart from that I also love coding 💻, analyzing data 📊, and photography 📷/ writing 📝. I'm currently into Data Scientist/Analyst where perfecting my skills both from technicals standpoint to data-storytelling/communication 🤓.
+🎓 I’m a recent graduate with a B.S. in Computer Science from Angelo State University, TX, and a B.A. in English for Professional Communication. I’m passionate about technology, artificial intelligence, and data analysis, with a strong interest in transforming insights into data-driven decisions that solve real-world problems across industries.
+
+I enjoy exploring new technologies, coding 💻, uncovering patterns in data 📊, and communicating insights through compelling storytelling. My goal is to bridge the gap between technical expertise and strategic impact by leveraging AI and analytics to drive innovation and informed decision-making. In my free time, you'll often find me diving into side projects, capturing moments through photography 📷, or refining my writing 📝.
 
 </div>
 
