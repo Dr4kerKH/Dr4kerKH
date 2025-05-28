@@ -24,8 +24,8 @@ I enjoy exploring new technologies, coding 💻, uncovering patterns in data �
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-- 🔭 I’m currently working on SWE mobile app and Data Pipeline/Analysis for Cybersecurity Team.
-- 🌱 I’m currently learning AWS, FastAPI, Flutter, Deployment and Docker.
+- 🔭 Volunteering on a Cybersecurity RAG system with public UI; building data pipeline & AI integration.
+- 🚀 Built & deployed a Flutter + FastAPI app on AWS EC2 with Firebase; exploring Docker & cloud tools.
 - 💬 Ask me anything 👻
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sonpaorong-muchhim-8b712b2a5/)
 - 🥅 2025 Goals: progress my data scientist path, getting job in data related
