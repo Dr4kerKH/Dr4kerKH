@@ -17,20 +17,11 @@
 
 🎓 I’m a recent graduate with a B.S. in Computer Science from Angelo State University, TX, and a B.A. in English for Professional Communication. I’m passionate about technology, artificial intelligence, and data analysis, with a strong interest in transforming insights into data-driven decisions that solve real-world problems across industries.
 
-I enjoy exploring new technologies, coding 💻, uncovering patterns in data 📊, and communicating insights through compelling storytelling. My goal is to bridge the gap between technical expertise and strategic impact by leveraging AI and analytics to drive innovation and informed decision-making. In my free time, you'll often find me diving into side projects, capturing moments through photography 📷, or refining my writing 📝.
+I enjoy exploring new technologies, coding 💻, uncovering patterns in data 📊, and communicating insights through compelling storytelling. My goal is to bridge the gap between technical expertise and strategic impact by leveraging AI and analytics to drive innovation and informed decision-making.
 
 </div>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
-- 🔭 Volunteering on a Cybersecurity RAG system with public UI; building data pipeline & AI integration.
-- 🚀 Built & deployed a Flutter + FastAPI app on AWS EC2 with Firebase; exploring Docker & cloud tools.
-- 💬 Ask me anything 👻
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sonpaorong-muchhim-8b712b2a5/)
-- 🥅 2025 Goals: progress my data scientist path, getting job in data related
-- ⚡ Fun fact: I'm not fun 😒.
-- 😅 Status: sleep deprived, dehydrated, highly caffeinated 🍵.
   
 ### Connect with me:
 <div>
