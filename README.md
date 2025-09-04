@@ -20,8 +20,6 @@
 I enjoy exploring new technologies, coding 💻, uncovering patterns in data 📊, and communicating insights through compelling storytelling. My goal is to bridge the gap between technical expertise and strategic impact by leveraging AI and analytics to drive innovation and informed decision-making.
 
 </div>
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
 ### Connect with me:
 <div>
