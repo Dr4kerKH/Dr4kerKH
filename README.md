@@ -15,9 +15,9 @@
 
 <div style="text-align: justify"> 
 
-🎓 I’m a recent graduate with a B.S. in Computer Science from Angelo State University, TX, and a B.A. in English for Professional Communication. I’m passionate about technology, artificial intelligence, and data analysis, with a strong interest in transforming insights into data-driven decisions that solve real-world problems across industries.
+🎓 I’m a graduate with a B.S. in Computer Science from Angelo State University, TX, and a B.A. in English for Professional Communication. I’m passionate about technology, artificial intelligence, and software development, with a strong interest in transforming insights into data-driven, AI-related software development that solves real-world problems across industries. I am also academia-oriented, preferably in AI algorithms with backup experience with Graph Retrieval Augmented Generation.
 
-I enjoy exploring new technologies, coding 💻, uncovering patterns in data 📊, and communicating insights through compelling storytelling. My goal is to bridge the gap between technical expertise and strategic impact by leveraging AI and analytics to drive innovation and informed decision-making.
+I enjoy exploring new technologies, new business ideas, coding 💻, and sharing insights. My goal is to bridge the gap between technical expertise and strategic business impact by leveraging AI and technology to drive innovation.
 
 </div>
   
