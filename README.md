@@ -26,7 +26,6 @@ I enjoy exploring new technologies, new business ideas, coding 💻, and sharing
 
 [<img align="left" alt="Sonpaorong M.  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sonpaorong-muchhim-8b712b2a5/)
 
-[<img align="left" alt="Sonpaorong M.  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sonpaorong?igsh=MTU1M2ttbGlycDViYQ%3D%3D&utm_-source=qr)
 
 </div>
 
