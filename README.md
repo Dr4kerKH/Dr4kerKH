@@ -1,8 +1,6 @@
+### Hi, I'm Sonpaorong M. 👋  [<img align="right" height="120px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>](https://www.linkedin.com/in/sonpaorong-m/)
+#### AI Engineer & Software Developer | Glad to see you here! 🤩
 
-
-### Hi I am "Sonpaorong M.". 👋  [<img align="right" height="120px" alt="GIF" src= "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>](https://www.linkedin.com/in/sonpaorong-muchhim-8b712b2a5/)
-
-#### Glad to see you here! 🤩
 <p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-%f0%9f%92%80-f5d505.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
@@ -14,13 +12,34 @@
 </p>
 
 <div style="text-align: justify"> 
-
-🎓 I’m a graduate with a B.S. in Computer Science from Angelo State University, TX, and a B.A. in English for Professional Communication. I’m passionate about technology, artificial intelligence, and software development, with a strong interest in transforming insights into data-driven, AI-related software development that solves real-world problems across industries. I am also academia-oriented, preferably in AI algorithms with backup experience with Graph Retrieval Augmented Generation.
-
-I enjoy exploring new technologies, new business ideas, coding 💻, and sharing insights. My goal is to bridge the gap between technical expertise and strategic business impact by leveraging AI and technology to drive innovation.
-
+ 
+I am into AI research, AI intergration into production-ready systems — experienced from GraphRAG pipelines to LLM-powered applications, with the full-stack skills to ship them end to end.
 </div>
-  
+
+- 🎲 Building AI-native tools at **Intellivega**: intelligence automation and augmentation, locally-hosted LLM inference, and prompt/context engineering
+- 🔱 Engineered a **GraphRAG cyber-threat-intelligence system** (AI Lab @ Angelo State University) — Neo4j knowledge graphs + hybrid vector/BM25 retrieval search
+- 💻 Led **Meet Me**, a full-stack scheduling app (FastAPI, MongoDB, Flutter) with real-time chat, deployed on AWS + Firebase
+- 🔭 Augmenting an PDF intelligence pipeline utilize OCR model + Automation Parser + Fallback Intelligence System with Azure AI + OpenSource Local model + Postgress DB
+- 🎓 B.S. Computer Science, Angelo State University & B.A. in English for Professional Communication, Institute of Foreign Languages, Royal University of Phnom Penh
+
+
+### 🛠️ Tech Stack
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/deepmind-%234285F4.svg?style=flat&logo=deepmind&logoColor=white"/>
+<img src="https://img.shields.io/badge/ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
 ### Connect with me:
 <div>
 
@@ -28,16 +47,6 @@ I enjoy exploring new technologies, new business ideas, coding 💻, and sharing
 
 
 </div>
-
 <br>
 
 ---
-<!--
-<p>
-
-  ![Sonpaorong's github stats](https://github-readme-stats.vercel.app/api?username=Dr4kerKH&show_icons=true&theme=tokyonight) 
-
-</p>
-
----
--->
