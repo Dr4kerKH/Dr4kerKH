@@ -25,19 +25,20 @@ I am into AI research, AI intergration into production-ready systems — experie
 
 ### 🛠️ Tech Stack
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"/>
-<img src="https://img.shields.io/badge/deepmind-%234285F4.svg?style=flat&logo=deepmind&logoColor=white"/>
-<img src="https://img.shields.io/badge/ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j"/>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/deepmind-%234285F4.svg?style=plastic&logo=deepmind&logoColor=white"/>
+<img src="https://img.shields.io/badge/ollama-%23000000.svg?style=plastic&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=plastic&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white" alt="Neo4j"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Railway-131415?style=plastic&logo=railway&logoColor=white)"/>
 </p>
 
 ### Connect with me:
