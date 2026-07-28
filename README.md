@@ -3,12 +3,10 @@
 
 <p>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-%f0%9f%92%80-DE7356.svg?style=flat&logo=github)](https://github.com/Dr4kerKH)
- &nbsp;
-[![Send Love](https://img.shields.io/badge/Send-%F0%9F%A4%8D-DE7356.svg?style=flat&logo=buymeacoffee&logoColor=white)](https://github.com/Dr4kerKH)
- &nbsp;
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Dr4kerKH&style=flat&labelColor=black&logo=aseprite&label=Visitors&color=DE7356"/>
- &nbsp;
+[![badge](https://shieldcn.dev/badge/Personal-(soon..).svg?variant=ghost&font=jetbrains-mono&split=true&logo=ri%3AFaCodeBranch&color=ffffff&labelColor=980707&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://github.com/Dr4kerKH)
+[![badge](https://shieldcn.dev/badge/Stay-Cool.svg?variant=ghost&font=jetbrains-mono&split=true&logo=youtubeshorts&color=ffffff&labelColor=980707&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://www.youtube.com/shorts/J58leqBty84)
+[![badge](https://shieldcn.dev/badge/Let's-Connect.svg?variant=ghost&font=jetbrains-mono&split=true&logo=ri%3AFaLinkedin&color=ffffff&labelColor=980707&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://www.linkedin.com/in/sonpaorong-m/)
+
 </p>
 
 <div style="text-align: justify"> 
