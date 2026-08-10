@@ -1,4 +1,4 @@
-### Hi, I'm Sonpaorong M. 👋  [<img align="right" height="120px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>](https://www.linkedin.com/in/sonpaorong-m/)
+### Hi, I'm Sonpaorong M. 👋
 #### AI Engineer & Software Developer | Glad to see you here! 🤩
 
 <p>
