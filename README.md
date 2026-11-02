@@ -3,9 +3,9 @@
 
 <p>
 
-[![badge](https://shieldcn.dev/badge/Portfolio-At?variant=ghost&font=jetbrains-mono&split=true&logo=ri%3AFaCodeBranch&color=ffffff&labelColor=980707&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://sonpaorong-m.vercel.app/)
-[![badge](https://shieldcn.dev/badge/Stay-Cool.svg?variant=ghost&font=jetbrains-mono&split=true&logo=youtubeshorts&color=ffffff&labelColor=980707&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://www.youtube.com/shorts/J58leqBty84)
-[![badge](https://shieldcn.dev/badge/Let's-Connect.svg?variant=ghost&font=jetbrains-mono&split=true&logo=ri%3AFaLinkedin&color=ffffff&labelColor=980707&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://www.linkedin.com/in/sonpaorong-m/)
+[![badge](https://shieldcn.dev/badge/Portfolio-At?variant=ghost&font=jetbrains-mono&split=true&logo=ri%3AFaCodeBranch&color=ffffff&labelColor=1a8005&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://sonpaorong-m.vercel.app/)
+[![badge](https://shieldcn.dev/badge/Stay-Cool.svg?variant=ghost&font=jetbrains-mono&split=true&logo=youtubeshorts&color=ffffff&labelColor=1a8005&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://www.youtube.com/shorts/J58leqBty84)
+[![badge](https://shieldcn.dev/badge/Let's-Connect.svg?variant=ghost&font=jetbrains-mono&split=true&logo=ri%3AFaLinkedin&color=ffffff&labelColor=1a8005&valueColor=080908&height=26&fontSize=10&padX=5&iconSize=16&gap=4&labelGap=0)](https://www.linkedin.com/in/sonpaorong-m/)
 
 </p>
 
